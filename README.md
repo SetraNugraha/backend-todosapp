@@ -50,6 +50,6 @@ Generate Prisma
   npm run dev
 ```
 
-## 🔗 Client Repository
+## 🔗 Frontend Repository
 
-https://github.com/SetraNugraha/client-pharmakey-ts
+https://github.com/SetraNugraha/frontend-todosapp
