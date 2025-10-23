@@ -32,7 +32,7 @@ Environtment
 
 ### Setup DB/Prisma
 
-Create Database localy on PostgreSQL
+Create Database localy on PostgreSQL & Make sure Postgresql local service already running/start.
 
 Generate Prisma
 
